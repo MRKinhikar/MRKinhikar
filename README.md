@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MRKinhikar
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Python, R, SQL, Database, Cloud queries
+- 🌱 I’m currently learning Python, R, SQL, Database
 - 📫 How to reach me mrkinhikar@gmail.com
 
 <!---
