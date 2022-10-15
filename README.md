@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MRKinhikar
-- 👀 I’m interested in Data Science field
+- 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Python, R, SQL, Database, Cloud queries
 - 📫 How to reach me mrkinhikar@gmail.com
 
