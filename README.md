@@ -1,4 +1,4 @@
-[![MasterHead](https://media.founditgulf.com/career-advice/wp-content/uploads/2022/04/python-developer-resume-1068x559.jpg)]
+![MasterHead](https://media.founditgulf.com/career-advice/wp-content/uploads/2022/04/python-developer-resume-1068x559.jpg)
 <h1 align="center">Hi 👋, I'm Mrunmayi</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/92b406742484961df85585a2624ca87c4da03814428bed001e34404cb9de054b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966">
