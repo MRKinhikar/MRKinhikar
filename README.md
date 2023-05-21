@@ -3,13 +3,15 @@
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/92b406742484961df85585a2624ca87c4da03814428bed001e34404cb9de054b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkinhikar&label=Profile%20views&color=0e75b6&style=flat" alt="mrkinhikar" /> </p>
+
 - 🔭 I’m currently working on **Jarvis AI Desktop Voice Assistant**
 
 - 🌱 I’m currently learning **Python, SQL, Java**
 
 - 📫 How to reach me **mrkinhikar@gmail.cm**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkinhikar&label=Profile%20views&color=0e75b6&style=flat" alt="mrkinhikar" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrkinhikar" alt="mrkinhikar" /></a> </p>
 
